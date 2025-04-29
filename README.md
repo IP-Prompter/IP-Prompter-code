@@ -200,13 +200,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 
-<!-- CONTACT -->
-## Contact
-
-Please feel free to open an issue or contact us personally if you have questions, need help, or need explanations. Write to one of the following email addresses, and maybe put one other in the cc:
-
-zhangyuxin2020@ia.ac.cn
-
 
 <!-- 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
